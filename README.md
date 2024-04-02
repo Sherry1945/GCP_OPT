@@ -40,6 +40,6 @@ Results with Pytorch
 | ResNet-50   |  76.02 |  25.6   |   3.86  |               |
 | ResNet-50+Fast-MPN(Ours)   | 78.56  |   32.3  |  6.19   |[Download](https://drive.google.com/file/d/1aF-By_pMhbCu82Gl73sFyz4qlNS25ayJ/view?usp=drive_link)|
 | ResNet-50+Drop-COV(Ours)   | 78.19  |   32.0  |  6.19   |[Download](https://drive.google.com/open?id=1TmnusKSArjKTTb28cnw2OzrUVc_DAi98)|
-| ResNet-101   |  77.67 |  44.6  |   |               |
-| ResNet-101+Fast-MPN(Ours)   | 79.47  |   51.3  |     |[Download](https://drive.google.com/open?id=1y8oI2IodJuG7R_gIdrYoXSTPafmszwMh)|
+| ResNet-101   |  77.67 |  44.6  |  7.57 |               |
+| ResNet-101+Fast-MPN(Ours)   | 79.47  |   51.3  |  9.90   |[Download](https://drive.google.com/open?id=1y8oI2IodJuG7R_gIdrYoXSTPafmszwMh)|
 | ResNet-101+Drop-COV(Ours)   | 79.51 |   51.0 |9.90    |[Download](https://drive.google.com/file/d/1KJyAUXu11GFz6uLS1kGyZc1JM-pi-E37/view?usp=sharing)|
