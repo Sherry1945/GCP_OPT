@@ -1,5 +1,13 @@
 # Towards A Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective
-Qilong Wang,  Zhaolin Zhang*, Mingze Gao*, Jiangtao Xie, Pengfei Zhu†, Peihua Li, Wangmeng Zuo, and Qinghua Hu† 
+Qilong Wang,  Zhaolin Zhang*, Mingze Gao*, Jiangtao Xie, Pengfei Zhu†, Peihua Li, Wangmeng Zuo, and Qinghua Hu†
+# Contents
+- [Abstract](## Abstract)
+- [References](## References)
+- [Introduciton](## Introduciton )
+- [Main Results on ImageNet with Pretrained Models](## Main Results on ImageNet with Pretrained Models)
+ - [Results with Mindspore](### Results with Mindspore)
+ - [Results with Pytorch](### Results with Pytorch)
+- [## Citation](## Citation)
 ## Abstract
 Global covariance pooling (GCP) as an effective alternative to global average pooling has shown good capacity to improve deep convolutional neural networks (CNNs) in a variety of vision tasks. Although promising performance, it is still an open problem on how GCP (especially its post-normalization) works in deep learning. In this paper, we make the effort towards understanding the effect of GCP on deep learning from an optimization perspective. Specifically, we first analyze behavior of GCP with matrix power normalization on optimization loss and gradient computation of deep architectures. Our findings show that GCP can improve Lipschitzness of optimization loss and achieve flatter local minima, while improving gradient predictiveness and functioning as a special pre-conditioner on gradients. Then, we explore the effect of post-normalization on GCP from the model optimization perspective, which encourages us to propose a simple yet effective normalization, namely DropCov. Based on above findings, we point out several merits of deep GCP that have not been recognized previously or fully explored, including faster convergence, stronger model robustness and better generalization across tasks. Extensive experimental results using both CNNs and vision transformers on diversified vision tasks provide strong support to our findings while verifying the effectiveness of our method.
 ## References
