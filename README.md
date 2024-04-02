@@ -27,7 +27,7 @@ This work first analyzes the effect of post-normalization from the perspective o
 | What Deep CNNs Benefit from Global Covariance Pooling: An Optimization Perspective  |  [Link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_What_Deep_CNNs_Benefit_From_Global_Covariance_Pooling_An_Optimization_CVPR_2020_paper.pdf)|[Link](https://github.com/Terror03/GCP-OPT)   | [Link](https://github.com/ZhangLi-CS/GCP_Optimization) |
 | DropCov: A Simple yet Effective Method for Improving Deep Architectures   | [Link](https://papers.nips.cc/paper_files/paper/2022/hash/d9888cc7baa04c2e44e8115588133515-Abstract-Conference.html)  |   [Link](https://github.com/Sherry1945/Dropcov_mindspore)   | [Link](https://github.com/mingzeG/DropCov) |
 
-Results with Mindspore
+### Results with Mindspore
 |Method(Mindspore)           | Top-1 Acc.(%)  | Params.(M) | FLOPs(G) | Checkpoint                                                          |
 | ------------------ | ----- | ------- | ----- | ------------------------------------------------------------ |
 | ResNet-18   |  70.53 |  11.7   |   1.81  |               |
@@ -40,7 +40,7 @@ Results with Mindspore
 | ResNet-50+Fast-MPN(Ours)   | 77.71  |   32.3  |  6.19   |[Download](https://drive.google.com/file/d/1aF-By_pMhbCu82Gl73sFyz4qlNS25ayJ/view?usp=drive_link)|
 | ResNet-50+Drop-COV(Ours)   | 77.77  |   32.0  |  6.19   |[Download](https://drive.google.com/file/d/1PBy8evHi-xiJHiTWgqrUs8jTH58hJM2n/view?usp=share_link)|
 
-Results with Pytorch
+### Results with Pytorch
 |Method(Pytorch)           | Top-1 Acc.(%) | Params.(M) | FLOPs(G) | Checkpoint|                                        
 | ------------------ | ----- | ------- | ----- | ------------------------------------------------------------ |
 | ResNet-34   |  74.19 |  21.8   |   3.66  |               |
