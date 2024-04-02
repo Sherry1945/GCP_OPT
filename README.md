@@ -4,5 +4,6 @@ Global covariance pooling (GCP) as an effective alternative to global average po
 ## References
 
  [DropCov: A Simple yet Effective Method for Improving Deep Architectures](https://papers.nips.cc/paper_files/paper/2022/hash/d9888cc7baa04c2e44e8115588133515-Abstract-Conference.html)  Qilong Wang, Mingze Gao, Zhaolin Zhang, Jiangtao Xie, Peihua Li, Qinghua Hu
+ 
  [What Deep CNNs Benefit from Global Covariance Pooling: An Optimization
 Perspective](https://ieeexplore.ieee.org/document/9156637) Int. Conf. on Computer Vision and Pattern Recognition (CVPR)
