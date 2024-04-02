@@ -11,7 +11,7 @@ Perspective](https://ieeexplore.ieee.org/document/9156637)  Qilong Wang, Li Zhan
 
 
 ## Implementation 
-|Works         | Paper | Mindspore Code|Pytorch Code|                                                         
+|Works         | Paper | Mindspore Code| Pytorch Code|                                                         
 | ------------------ | ----- | ------- | ------- | 
 | What Deep CNNs Benefit from Global Covariance Pooling: An Optimization
 Perspective  |  [Link](https://ieeexplore.ieee.org/document/9156637)|[Link](https://github.com/Terror03/GCP-OPT)   | [Link](https://github.com/ZhangLi-CS/GCP_Optimization) |
