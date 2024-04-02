@@ -50,7 +50,7 @@ Results with Pytorch
 | ResNet-101+Drop-COV(Ours)   | 79.51 |   51.0 |9.90    |[Download](https://drive.google.com/file/d/1KJyAUXu11GFz6uLS1kGyZc1JM-pi-E37/view?usp=sharing)|
 ## Citation
 ```
-@ARTICLE{10269023,
+@ARTICLE{wang2023towards,
   author={Wang, Qilong and Zhang, Zhaolin and Gao, Mingze and Xie, Jiangtao and Zhu, Pengfei and Li, Peihua and Zuo, Wangmeng and Hu, Qinghua},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   title={Towards a Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective}, 
