@@ -10,8 +10,14 @@ Global covariance pooling (GCP) as an effective alternative to global average po
 Perspective](https://ieeexplore.ieee.org/document/9156637)  Qilong Wang, Li Zhang, Banggu Wu, Dongwei Ren, Peihua Li, Wangmeng Zuo, Qinghua Hu. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),2020.
 
 
+## Implementation 
+|Works         | Paper | Mindspore Code|Pytorch Code|                                                         
+| ------------------ | ----- | ------- | ------- | 
+| What Deep CNNs Benefit from Global Covariance Pooling: An Optimization
+Perspective  |  [Link](https://ieeexplore.ieee.org/document/9156637)|[Link](https://github.com/Terror03/GCP-OPT)   | [Link](https://github.com/ZhangLi-CS/GCP_Optimization) |
+| DropCov: A Simple yet Effective Method for Improving Deep Architectures   | [Link](https://papers.nips.cc/paper_files/paper/2022/hash/d9888cc7baa04c2e44e8115588133515-Abstract-Conference.html)  |   [Link](https://github.com/Sherry1945/Dropcov_mindspore)   | [Link](https://github.com/mingzeG/DropCov) |
 
-
+## Results
 |Method(Mindspore)           | Acc@1(%) | #Params.(M) | FLOPs(G) | Checkpoint                                                          |
 | ------------------ | ----- | ------- | ----- | ------------------------------------------------------------ |
 | ResNet-18   |  70.53 |  11.7   |   1.81  |               |
