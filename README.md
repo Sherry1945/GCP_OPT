@@ -17,7 +17,21 @@ Perspective](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_What_De
 | DropCov: A Simple yet Effective Method for Improving Deep Architectures   | [Link](https://papers.nips.cc/paper_files/paper/2022/hash/d9888cc7baa04c2e44e8115588133515-Abstract-Conference.html)  |   [Link](https://github.com/Sherry1945/Dropcov_mindspore)   | [Link](https://github.com/mingzeG/DropCov) |
 
 ## Results
+Results with Mindspore
 |Method(Mindspore)           | Acc@1(%) | #Params.(M) | FLOPs(G) | Checkpoint                                                          |
+| ------------------ | ----- | ------- | ----- | ------------------------------------------------------------ |
+| ResNet-18   |  70.53 |  11.7   |   1.81  |               |
+| ResNet-18+Fast-MPN(Ours)   | 74.64  |   19.6  |  3.11   |[Download](https://drive.google.com/file/d/1kpBpbYpWQfSzSav7v8Ms7dn1SaUlOlMk/view?usp=drive_link)|
+| ResNet-18+Drop-COV(Ours)   | 73.8  |   19.6  |  3.11   |[Download](https://drive.google.com/file/d/1zVDDmmQWQ-CDDoxjaolkcjI3MACE-rxx/view?usp=drive_link)|
+| ResNet-34   |  73.68 |  21.8   |   3.66  |               |
+| ResNet-34+Fast-MPN(Ours)   |  76.27 |   29.7  |  5.56   |[Download](https://drive.google.com/file/d/1T0YCzz-A-V2GI1tjihCHIjug93nFSQ91/view?usp=drive_link)|
+| ResNet-34+Drop-COV(Ours)   | 76.13  |   29.7  |  5.56   |[Download](https://drive.google.com/file/d/1-gvogrLlRSnpzigvevLPV1GKAHF0vr2K/view?usp=drive_link)|
+| ResNet-50   |  76.07 |  25.6   |   3.86  |               |
+| ResNet-50+Fast-MPN(Ours)   | 77.71  |   32.3  |  6.19   |[Download](https://drive.google.com/file/d/1aF-By_pMhbCu82Gl73sFyz4qlNS25ayJ/view?usp=drive_link)|
+| ResNet-50+Drop-COV(Ours)   | 77.77  |   32.0  |  6.19   |[Download](https://drive.google.com/file/d/1PBy8evHi-xiJHiTWgqrUs8jTH58hJM2n/view?usp=share_link)|
+
+Results with Pytorch
+|Method(Pytorch)           | Acc@1(%) | #Params.(M) | FLOPs(G) | Checkpoint                                                          |
 | ------------------ | ----- | ------- | ----- | ------------------------------------------------------------ |
 | ResNet-18   |  70.53 |  11.7   |   1.81  |               |
 | ResNet-18+Fast-MPN(Ours)   | 74.64  |   19.6  |  3.11   |[Download](https://drive.google.com/file/d/1kpBpbYpWQfSzSav7v8Ms7dn1SaUlOlMk/view?usp=drive_link)|
