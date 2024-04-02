@@ -48,3 +48,15 @@ Results with Pytorch
 | ResNet-101   |  77.67 |  44.6  |  7.57 |               |
 | ResNet-101+Fast-MPN(Ours)   | 79.47  |   51.3  |  9.90   |[Download](https://drive.google.com/open?id=1y8oI2IodJuG7R_gIdrYoXSTPafmszwMh)|
 | ResNet-101+Drop-COV(Ours)   | 79.51 |   51.0 |9.90    |[Download](https://drive.google.com/file/d/1KJyAUXu11GFz6uLS1kGyZc1JM-pi-E37/view?usp=sharing)|
+## Citation
+```
+@ARTICLE{10269023,
+  author={Wang, Qilong and Zhang, Zhaolin and Gao, Mingze and Xie, Jiangtao and Zhu, Pengfei and Li, Peihua and Zuo, Wangmeng and Hu, Qinghua},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Towards a Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective}, 
+  year={2023},
+  volume={45},
+  number={12},
+  pages={15802-15819},
+}
+```
