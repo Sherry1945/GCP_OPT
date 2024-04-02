@@ -31,7 +31,7 @@ Results with Mindspore
 | ResNet-50+Drop-COV(Ours)   | 77.77  |   32.0  |  6.19   |[Download](https://drive.google.com/file/d/1PBy8evHi-xiJHiTWgqrUs8jTH58hJM2n/view?usp=share_link)|
 
 Results with Pytorch
-|Method(Pytorch)           | Acc@1(%) | #Params.(M) | FLOPs(G) | Checkpoint                                                          |
+|Method(Pytorch)           | Acc@1(%) | #Params.(M) | FLOPs(G) | Checkpoint|                                                          
 | ------------------ | ----- | ------- | ----- | ------------------------------------------------------------ |
 
 | ResNet-34   |  74.19 |  21.8   |   3.66  |               |
