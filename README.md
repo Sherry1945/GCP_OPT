@@ -7,13 +7,13 @@ Global covariance pooling (GCP) as an effective alternative to global average po
  [DropCov: A Simple yet Effective Method for Improving Deep Architectures](https://papers.nips.cc/paper_files/paper/2022/hash/d9888cc7baa04c2e44e8115588133515-Abstract-Conference.html)  Qilong Wang, Mingze Gao, Zhaolin Zhang, Jiangtao Xie, Peihua Li, Qinghua Hu.Advances in Neural Information Processing Systems (NeurIPS), 2022.
  
  [What Deep CNNs Benefit from Global Covariance Pooling: An Optimization
-Perspective](https://ieeexplore.ieee.org/document/9156637)  Qilong Wang, Li Zhang, Banggu Wu, Dongwei Ren, Peihua Li, Wangmeng Zuo, Qinghua Hu. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),2020.
+Perspective](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_What_Deep_CNNs_Benefit_From_Global_Covariance_Pooling_An_Optimization_CVPR_2020_paper.pdf)  Qilong Wang, Li Zhang, Banggu Wu, Dongwei Ren, Peihua Li, Wangmeng Zuo, Qinghua Hu. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),2020.
 
 
 ## Implementation 
 |Works         | Paper | Mindspore Code| Pytorch Code|                                                         
 | ------------------ | ----- | ------- | ------- | 
-| What Deep CNNs Benefit from Global Covariance Pooling: An Optimization Perspective  |  [Link](https://ieeexplore.ieee.org/document/9156637)|[Link](https://github.com/Terror03/GCP-OPT)   | [Link](https://github.com/ZhangLi-CS/GCP_Optimization) |
+| What Deep CNNs Benefit from Global Covariance Pooling: An Optimization Perspective  |  [Link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_What_Deep_CNNs_Benefit_From_Global_Covariance_Pooling_An_Optimization_CVPR_2020_paper.pdf)|[Link](https://github.com/Terror03/GCP-OPT)   | [Link](https://github.com/ZhangLi-CS/GCP_Optimization) |
 | DropCov: A Simple yet Effective Method for Improving Deep Architectures   | [Link](https://papers.nips.cc/paper_files/paper/2022/hash/d9888cc7baa04c2e44e8115588133515-Abstract-Conference.html)  |   [Link](https://github.com/Sherry1945/Dropcov_mindspore)   | [Link](https://github.com/mingzeG/DropCov) |
 
 ## Results
