@@ -1,11 +1,12 @@
 # Towards A Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective
-Qilong Wang,  Zhaolin Zhang*, Mingze Gao*, Jiangtao Xie, Pengfei Zhu†, Peihua Li, Wangmeng Zuo, and Qinghua Hu†
+This is an project code of TPAMI2023 paper ([Towards A Deeper Understanding of Global Covariance Pooling in Deep Learning: An Optimization Perspective](https://ieeexplore.ieee.org/document/10269023/) ), created by Qilong Wang,  Zhaolin Zhang*, Mingze Gao*, Jiangtao Xie, Pengfei Zhu†, Peihua Li, Wangmeng Zuo, and Qinghua Hu†. This paper integrates and substantially extends our preliminary works published in CVPR 2020 and NeurIPS 2022, whose titles are ``What Deep CNNs Benefit from Global Covariance Pooling: An Optimization Perspective'' and ``DropCov: A Simple yet Effective Method for Improving Deep Architectures'', respectively. We present the primary differences between our preliminary works and the current manuscript in the followings. 
 # Contents
+- [Citation](#Citation)
 - [Abstract](#Abstract)
 - [References](#References)
 - [Introduciton](#Introduciton )
 - [Results](#Results)
-- [Citation](#Citation)
+
 ## Citation
 ```
 @ARTICLE{wang2023towards,
